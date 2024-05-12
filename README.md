@@ -13,4 +13,4 @@
 <hr />
 
 *Projetos:*
-- SAFIRA [HTML/CSS, Python, Flask] - [Conheça](https://google.com.br)
+- SAFIRA [HTML/CSS, Python, Flask] - [Conheça](https://github.com/SebastiaoSoares/SAFIRA#readme)

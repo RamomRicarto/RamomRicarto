@@ -1,9 +1,16 @@
 # Ramom Ricarto
-[![Email](email.png)](mailto:ramomricarto@gmail.com) 
-[![Instagram](insta.png)](https://instagram.com/ramom.mr_)
+
+<div>
+  <a href="mailto:ramomricarto@gmail.com"><img src="email.png" /></a>
+  <a href="https://instagram.com/ramom.mr_"><img src="insta.png" /></a>
+</div>
+<br>
+
 * 📚 | Estudante
 * 🧑‍💻 | Entusiasta do Desenvolvimento Web
 * 🖥️ | Formação Técnica em Informática
+
 <hr />
-**Projetos:**
-- SAFIRA [ HTML | CSS | Python ] - [Conheça](https://google.com.br)
+
+*Projetos:*
+- SAFIRA [HTML/CSS, Python, Flask] - [Conheça](https://google.com.br)
